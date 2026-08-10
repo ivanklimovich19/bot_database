@@ -1,0 +1,37 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Загруженные изображения
+uploads/
+
+# Локальная база данных (если есть)
+*.db
+*.sqlite
+
+# Кэш Streamlit
+.streamlit/cache/
+
+# Файлы конфигурации с секретами (если будут)
+config_local.py
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
