@@ -191,11 +191,11 @@ The source code, database schema, and load testing script are available in this 
 
 ## Contact
 
-**Author:** I. A. Klimov
+**Author:** I. D. Klimovich
 **E-mail:** your.email@example.com
 
 ## Citation
 
 If you use this system in your research, please cite:
 
-> Klimov I. A. Hybrid EAV architecture for storing plant phenotypic data: implementation on the Python stack and performance evaluation // Programming. 2026. [in press].
+> Klimov I. D. et al. Hybrid EAV architecture for storing plant phenotypic data: implementation on the Python stack and performance evaluation // Programming. 2026. [in press].
